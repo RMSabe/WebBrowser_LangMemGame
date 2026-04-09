@@ -1,0 +1,9 @@
+Language Memory Game for Web Browser
+Version 0.2
+
+THIS VERSION IS JUST A PROTOTYPE.
+I'M NOT A LANGUAGE TEACHER AND THE CONTENT IN THIS VERSION SHOULD NOT BE USED AS LEARNING MATERIAL.
+
+Author: Rafael Sabe
+Email: rafaelmsabe@gmail.com
+
